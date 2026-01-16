@@ -39,7 +39,7 @@ Turning theory into production-ready solutions.
 🔹 **AI-Resume-Parser-Web-App**  
  Web app to parse resumes using AI-based NLP (currently public). :contentReference[oaicite:8]{index=8}
 
-> *Tip:* Pin the repositories above on your GitHub profile to highlight them.  
+  
 
 ---
 
@@ -49,7 +49,7 @@ Turning theory into production-ready solutions.
 **ML & Data:** Pandas, NumPy, Scikit-Learn  
 **Web:** React (optional), HTML, CSS, JS  
 **Tools:** Git, GitHub, Jupyter Notebooks, VS Code  
-*(Expand this list with what you use frequently.)*
+
 
 ---
 
