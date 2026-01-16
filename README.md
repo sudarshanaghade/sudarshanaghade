@@ -56,7 +56,7 @@ Turning theory into production-ready solutions.
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/sudarshanaghade  
-- LinkedIn: *Add your LinkedIn URL here if available*
+- LinkedIn: https://www.linkedin.com/in/sudarshan-aghade-880b61223/
 
 Let’s build and learn together!
 
