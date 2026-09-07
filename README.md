@@ -13,7 +13,7 @@
 
 ## About Me
 
-- 🎓 Pursuing M.Sc. Industrial Mathematics with Computer Applications at Fergusson College, Pune (2024–2026)
+- 🎓 Completed M.Sc. Industrial Mathematics with Computer Applications at Fergusson College, Pune (2024–2026)
 - 💼 Full-Stack Developer & AI/ML Engineer — from React frontends to LangGraph state machines, PostgreSQL backends to AWS deployments
 - 🤖 I build AI agents that take grounded, tool-calling actions on structured data
 - 🚀 Currently improving and deploying my machine learning and full-stack projects
