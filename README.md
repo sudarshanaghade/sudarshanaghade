@@ -1,65 +1,99 @@
-
-
 <!-- Heading -->
-# Hi there, I'm Sudarshan 👋
+<h1 align="center">Hi there, I'm Sudarshan Aghade 👋</h1>
+<h3 align="center">Full-Stack Developer & AI/LLM Engineer | Mathematics at the Core</h3>
+<p align="center">Turning theory into production-ready web apps and intelligent agents.</p>
 
-**Mathematics at the Core | AI / ML | Data Science & Analytics | Web & Software Development**  
-Turning theory into production-ready solutions.
+<p align="center">
+  <a href="https://sudarshanaghade.github.io/sudarshan-aghade/">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/sudarshan-aghade-880b61223/">💼 LinkedIn</a> ·
+  <a href="mailto:sudarshanda01@gmail.com">✉️ Email</a>
+</p>
 
 ---
 
 ## About Me
 
-- 🎓 Mathematics student with a strong foundation in data science, analytics, and software development. :contentReference[oaicite:1]{index=1}
-- 💡 I build practical projects in ML, data analysis, and full-stack applications. :contentReference[oaicite:2]{index=2}
-- 🚀 Passionate about learning new tech and solving real-world problems.
-- 🔭 Currently working on improving and deploying my machine learning projects.
-
----
-
-## 📌 Featured Projects
-
-### Machine Learning & Data Science
-🔹 **Movie Recommender System**  
- A Recommendation Engine built with collaborative filtering and content-based methods. :contentReference[oaicite:3]{index=3}
-
-🔹 **anemia_prediction**  
- A classification model to predict anemia cases using medical data. :contentReference[oaicite:4]{index=4}
-
-🔹 **AirLine_EDA**  
- Exploratory data analysis on airline datasets with insights and visualizations. :contentReference[oaicite:5]{index=5}
-
-### Software & Web Development
-🔹 **Library_Management_System**  
- A console-based C++ system for book inventory and user management. :contentReference[oaicite:6]{index=6}
-
-🔹 **Inventory_Dashboard**  
- A JavaScript project for inventory analysis and dashboard UI. :contentReference[oaicite:7]{index=7}
-
-🔹 **AI-Resume-Parser-Web-App**  
- Web app to parse resumes using AI-based NLP (currently public). :contentReference[oaicite:8]{index=8}
-
-  
+- 🎓 Pursuing M.Sc. Industrial Mathematics with Computer Applications at Fergusson College, Pune (2024–2026)
+- 💼 Full-Stack Developer & AI/ML Engineer — from React frontends to LangGraph state machines, PostgreSQL backends to AWS deployments
+- 🤖 I build AI agents that take grounded, tool-calling actions on structured data
+- 🚀 Currently improving and deploying my machine learning and full-stack projects
+- 📍 Based in Pune, Maharashtra, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, C++  
-**ML & Data:** Pandas, NumPy, Scikit-Learn  
-**Web:** React (optional), HTML, CSS, JS  
-**Tools:** Git, GitHub, Jupyter Notebooks, VS Code  
+**Languages:** JavaScript · TypeScript · Python · SQL
 
+**Frontend:** React.js · Next.js · Redux · Tailwind CSS · Vite
+
+**Backend:** Node.js · Express.js · FastAPI · Flask · NestJS · REST APIs
+
+**Databases:** PostgreSQL · MongoDB · SQLite · SQLAlchemy · Drizzle ORM
+
+**Cloud & DevOps:** AWS (S3, EC2, Lambda, RDS) · Docker · Vercel · Git/GitHub · Linux CLI
+
+**AI / ML & Agents:** LangChain · LangGraph · Groq API · Gemini API · OpenAI API · Llama 3.3 · HuggingFace · PEFT/LoRA · Unsloth · PyTorch · Tavily Search
+
+**Tools:** Postman · Figma · Socket.io · Cloudinary · Electron · Streamlit · Recharts
+
+---
+
+## 📌 Featured Projects
+
+### AI / LLM
+🔹 **Sample Chain-of-Custody NL Search Agent** — Zero-hallucination LangGraph agent letting scientists query full Batch → Run → Assay lab trails in plain English. 4-node deterministic state machine with a 14-test pytest suite.
+`Python` `LangGraph` `SQLAlchemy` `Streamlit` `Pydantic` `PostgreSQL`
+[Repo →](https://github.com/sudarshanaghade/ample-Chain-of-Custody-NL-Search-Agent)
+
+🔹 **Multi-Provider LLM Cost & Reliability Tracker** — Open-source observability library tracking token usage, USD cost, and latency across OpenAI, Groq, Gemini & DeepSeek via a drop-in decorator, with priority-based automatic failover.
+`Python` `FastAPI` `Streamlit` `SQLAlchemy` `PostgreSQL`
+[Repo →](https://github.com/sudarshanaghade/Multi-Provider-LLM-Cost-Reliability-Tracker)
+
+🔹 **Customer Support AI Agent** — Fine-tuned Qwen2.5-1.5B-Instruct with QLoRA on 27k Bitext examples. LangGraph agent with tool-calling for order-status lookups; rank-16 LoRA, mixed-precision fp16 on T4 GPU.
+`Python` `QLoRA` `Transformers` `PEFT` `LangGraph` `Unsloth`
+
+### Full-Stack
+🔹 **Real Estate PropTech SaaS** — Multi-tenant SaaS platform with RBAC, server-side-rendered dashboards, real-time lead management via Socket.io, OAuth, and Cloudinary media handling.
+`Next.js 15` `TypeScript` `Node.js` `PostgreSQL` `MongoDB` `Socket.io` `Drizzle ORM`
+
+🔹 **MediHive — Clinic Management App** — Cross-platform Electron desktop app for OPD workflows, appointments, and revenue tracking, with analytics dashboards (Recharts) and bcrypt-secured RBAC.
+`React.js` `Flask` `SQLite` `Electron` `Recharts`
+
+### DevOps / Cloud
+🔹 **Kayaking Platform** — End-to-end production web platform: React.js frontend, Flask backend, Google Sheets API integration, SEO optimization, cross-browser testing, and deployment monitoring.
+`React.js` `Flask` `Google Sheets API` `Python`
+
+*Browse all repos → [github.com/sudarshanaghade](https://github.com/sudarshanaghade)*
+
+---
+
+## 💼 Experience
+
+**Software Developer Intern**, TechLantern Solutions — *Feb 2026 – Aug 2026*
+- Developed and maintained full-stack web apps using React.js, Node.js, and Express.js
+- Designed and deployed LangChain/LangGraph AI agents with Groq APIs for real-time data pipelines
+- Managed AWS infrastructure (S3, EC2, Lambda, RDS) for scalable deployments on Linux
+
+**Full-Stack Developer Intern**, InnovateHive Tech Solution — *Oct 2025 – Jan 2026*
+- Built a Kayaking Platform end-to-end (React.js + Flask + Google Sheets API)
+- Implemented SEO optimization, cross-browser testing, and performance monitoring
+- Collaborated with stakeholders in agile workflows from requirements to production
+
+---
+
+## 🎓 Education
+
+- **M.Sc. Industrial Mathematics with Computer Applications**, Fergusson College, Pune — *Jul 2024 – Apr 2026* (CGPA: 7.10)
+- **B.Sc. Mathematics**, Sir Parashurambhau College, Pune — *Jul 2021 – Apr 2024* (CGPA: 8.30)
 
 ---
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/sudarshanaghade  
-- LinkedIn: https://www.linkedin.com/in/sudarshan-aghade-880b61223/
+- 🌐 Portfolio: [sudarshanaghade.github.io/sudarshan-aghade](https://sudarshanaghade.github.io/sudarshan-aghade/)
+- 💼 LinkedIn: [sudarshan-aghade](https://www.linkedin.com/in/sudarshan-aghade-880b61223/)
+- 🐙 GitHub: [@sudarshanaghade](https://github.com/sudarshanaghade)
+- ✉️ Email: sudarshanda01@gmail.com
 
-Let’s build and learn together!
-
----
-
-*Thanks for visiting my GitHub profile.*
+*Let's build and learn together!*
